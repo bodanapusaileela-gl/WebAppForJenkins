@@ -6,7 +6,7 @@ pipeline {
     }
 
     environment {
-        APP_SERVER_IP = "172.31.22.115"
+        APP_SERVER_IP = "172.31.15.41"
         APP_NAME      = "myapp"
         IMAGE_NAME    = "bodanapusaileela/myapp"
         IMAGE_TAG     = "latest"
